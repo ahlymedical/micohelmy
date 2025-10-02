@@ -1,54 +1,54 @@
 [
     {
-        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064",
+        "url": "assets/portfolio_images/branding-01.jpg",
         "title": "Social Media Branding",
         "category": "branding",
         "alt": "Branding design for a social media application"
     },
     {
-        "url": "https://images.unsplash.com/photo-1553484771-11998c592b9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/graphic-01.jpg",
         "title": "Gaming Controller 3D",
         "category": "graphic",
         "alt": "3D render of a gaming controller"
     },
     {
-        "url": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/photo-01.jpg",
         "title": "Workspace Photography",
         "category": "photo",
         "alt": "A clean and modern desk setup"
     },
     {
-        "url": "https://images.unsplash.com/photo-1516156008657-5673da052faf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/marketing-01.jpg",
         "title": "Digital Marketing Campaign",
         "category": "marketing",
         "alt": "A person working on a digital marketing strategy on a laptop"
     },
     {
-        "url": "https://images.unsplash.com/photo-1542038784-56e98e742998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/photo-02.jpg",
         "title": "Vintage Camera Shoot",
         "category": "photo",
         "alt": "A close-up shot of a person holding a vintage camera"
     },
     {
-        "url": "https://images.unsplash.com/photo-1590602847834-35fd447ae14c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/voiceover-01.jpg",
         "title": "Professional Voice Over Mic",
         "category": "voiceover",
         "alt": "A professional microphone in a recording studio"
     },
     {
-        "url": "https://images.unsplash.com/photo-1585435465945-b9a761b4540c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/videography-01.jpg",
         "title": "Drone Videography",
         "category": "videography",
         "alt": "A drone flying over a landscape to capture video"
     },
     {
-        "url": "https://images.unsplash.com/photo-1599658880115-a2ed683ded36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/marketing-02.jpg",
         "title": "SEO & Analytics",
         "category": "marketing",
         "alt": "A screen showing SEO data and analytics charts"
     },
     {
-        "url": "https://images.unsplash.com/photo-1572191503355-7de5b419a43d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "url": "assets/portfolio_images/videography-02.jpg",
         "title": "Event Videography",
         "category": "videography",
         "alt": "A videographer filming a live event"
