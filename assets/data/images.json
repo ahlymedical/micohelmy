@@ -1,56 +1,56 @@
 [
     {
-        "url": "https://images.unsplash.com/photo-1611162617213-6d221bde3840?q=80&w=1374",
-        "title": "Tech Company Branding",
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064",
+        "title": "Social Media Branding",
         "category": "branding",
-        "alt": "Full branding suite for a tech company"
+        "alt": "Branding design for a social media application"
     },
     {
-        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=1470",
-        "title": "Mobile App UI/UX Design",
+        "url": "https://images.unsplash.com/photo-1553484771-11998c592b9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Gaming Controller 3D",
         "category": "graphic",
-        "alt": "User interface design for a mobile application"
+        "alt": "3D render of a gaming controller"
     },
     {
-        "url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=1374",
-        "title": "Alpine Lake Photography",
+        "url": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Workspace Photography",
         "category": "photo",
-        "alt": "Landscape photograph of mountains and a lake"
+        "alt": "A clean and modern desk setup"
     },
     {
-        "url": "https://images.unsplash.com/photo-1526948531399-320e7e40f05d?q=80&w=1470",
-        "title": "Cosmetics Product Marketing",
+        "url": "https://images.unsplash.com/photo-1516156008657-5673da052faf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Digital Marketing Campaign",
         "category": "marketing",
-        "alt": "Marketing campaign for a cosmetic product line"
+        "alt": "A person working on a digital marketing strategy on a laptop"
     },
     {
-        "url": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=1470",
-        "title": "Motorcycle Product Shoot",
+        "url": "https://images.unsplash.com/photo-1542038784-56e98e742998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Vintage Camera Shoot",
         "category": "photo",
-        "alt": "Professional studio shot of a black motorcycle"
+        "alt": "A close-up shot of a person holding a vintage camera"
     },
     {
-        "url": "https://images.unsplash.com/photo-1519642918688-7e43bde246e2?q=80&w=1374",
-        "title": "Podcast Voice Over Setup",
+        "url": "https://images.unsplash.com/photo-1590602847834-35fd447ae14c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Professional Voice Over Mic",
         "category": "voiceover",
-        "alt": "Professional microphone setup for voice over recording"
+        "alt": "A professional microphone in a recording studio"
     },
     {
-        "url": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1470",
-        "title": "Corporate Event Photography",
-        "category": "photo",
-        "alt": "A team of professionals in a business meeting"
-    },
-    {
-        "url": "https://images.unsplash.com/photo-1611262588024-d12430b98920?q=80&w=1374",
-        "title": "Social Media Content Strategy",
-        "category": "marketing",
-        "alt": "Planning social media content on a phone"
-    },
-    {
-        "url": "https://images.unsplash.com/photo-1533673473935-24b3780d03a9?q=80&w=1470",
-        "title": "Cinematic Videography",
+        "url": "https://images.unsplash.com/photo-1585435465945-b9a761b4540c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Drone Videography",
         "category": "videography",
-        "alt": "A person filming with a professional cinema camera"
+        "alt": "A drone flying over a landscape to capture video"
+    },
+    {
+        "url": "https://images.unsplash.com/photo-1599658880115-a2ed683ded36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "SEO & Analytics",
+        "category": "marketing",
+        "alt": "A screen showing SEO data and analytics charts"
+    },
+    {
+        "url": "https://images.unsplash.com/photo-1572191503355-7de5b419a43d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170",
+        "title": "Event Videography",
+        "category": "videography",
+        "alt": "A videographer filming a live event"
     }
 ]
