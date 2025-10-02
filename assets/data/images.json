@@ -3,78 +3,143 @@
         "url": "assets/portfolio_images/Graphic Design 1.jpg",
         "title": "Creative Design",
         "category": "graphic",
-        "alt": "Creative Design Project"
+        "alt": "Creative Design Project",
+        "description": [
+            "Translating brand strategy into visually compelling designs.",
+            "Focus on user-centric layouts and modern aesthetics.",
+            "Delivering high-impact visuals for digital and print media."
+        ]
     },
     {
         "url": "assets/portfolio_images/Graphic Design 2.jpg",
-        "title": "Creative Resources Infographic",
+        "title": "Creative Website Designs",
         "category": "graphic",
-        "alt": "Infographic for creative resources"
+        "alt": "Creative website design mockups",
+        "description": [
+            "Crafting intuitive and engaging user interfaces (UI).",
+            "Designing responsive layouts for a seamless experience on all devices.",
+            "Balancing creativity with usability for optimal results."
+        ]
     },
     {
         "url": "assets/portfolio_images/Graphic Design 3.jpg",
         "title": "Business Corporate Identity",
         "category": "branding",
-        "alt": "Corporate identity for a business"
+        "alt": "Corporate identity for a business",
+        "description": [
+            "Building a cohesive and memorable brand identity from the ground up.",
+            "Designing logos, color palettes, and typography systems.",
+            "Ensuring brand consistency across all marketing channels."
+        ]
     },
     {
         "url": "assets/portfolio_images/Graphic Design 4.png",
         "title": "Creative LOGO",
         "category": "graphic",
-        "alt": "Creative logo design"
+        "alt": "Creative logo design",
+        "description": [
+            "Developing unique and timeless logos that tell a brand's story.",
+            "Focusing on simplicity, memorability, and scalability.",
+            "Providing a full logo package with guidelines for use."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 1.png",
         "title": "Digital Marketing",
         "category": "marketing",
-        "alt": "Digital marketing campaign"
+        "alt": "Digital marketing campaign",
+        "description": [
+            "Creating data-driven strategies to increase online visibility.",
+            "Managing multi-channel campaigns including social media, and content.",
+            "Analyzing performance metrics to optimize for ROI."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 2.png",
         "title": "Medical Marketing",
         "category": "marketing",
-        "alt": "Marketing for the medical sector"
+        "alt": "Marketing for the medical sector",
+        "description": [
+            "Specialized marketing strategies for healthcare providers and clinics.",
+            "Building patient trust through professional and ethical communication.",
+            "Navigating industry regulations to deliver compliant and effective campaigns."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 3.png",
-        "title": "Best Hotels Campaign",
+        "title": "Best Results",
         "category": "marketing",
-        "alt": "Marketing campaign for best hotels"
+        "alt": "Marketing campaign for achieving best results",
+        "description": [
+            "Implementing growth-focused strategies to achieve business objectives.",
+            "Utilizing A/B testing and conversion rate optimization (CRO).",
+            "Delivering measurable results and tangible business growth."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 4.png",
-        "title": "Social Media Management",
+        "title": "Social Media",
         "category": "marketing",
-        "alt": "Social media marketing project"
+        "alt": "Social media marketing project",
+        "description": [
+            "Developing and executing engaging social media content strategies.",
+            "Managing communities and building a loyal online following.",
+            "Running targeted ad campaigns to reach the right audience."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 5.png",
         "title": "Search Engine Optimization",
         "category": "marketing",
-        "alt": "SEO project overview"
+        "alt": "SEO project overview",
+        "description": [
+            "Improving organic search rankings on engines like Google.",
+            "Conducting keyword research, on-page optimization, and link building.",
+            "Driving qualified traffic and increasing website authority."
+        ]
     },
     {
         "url": "assets/portfolio_images/Marketing 6.png",
         "title": "Google Ads",
         "category": "marketing",
-        "alt": "Google Ads campaign management"
+        "alt": "Google Ads campaign management",
+        "description": [
+            "Creating and managing high-performance Google Ads campaigns.",
+            "Optimizing for keywords, ad copy, and landing pages.",
+            "Maximizing conversions while maintaining a low cost-per-acquisition (CPA)."
+        ]
     },
     {
         "url": "assets/portfolio_images/Photography 1.jpg",
-        "title": "Professional Photography",
+        "title": "Photography",
         "category": "photo",
-        "alt": "Professional photography session"
+        "alt": "Professional photography session",
+        "description": [
+            "Professional photography for events, products, and portraits.",
+            "Utilizing expert lighting and composition techniques.",
+            "Delivering high-resolution, professionally edited images."
+        ]
     },
     {
         "url": "assets/portfolio_images/Videography 1.jpg",
-        "title": "Event Videography",
+        "title": "Videography",
         "category": "videography",
-        "alt": "Professional videography for an event"
+        "alt": "Professional videography for an event",
+        "description": [
+            "Producing cinematic-quality video content for brands and events.",
+            "Handling all stages from pre-production to final editing.",
+            "Telling compelling stories through motion and sound."
+        ]
     },
     {
         "url": "assets/portfolio_images/Voice Over 1.png",
-        "title": "Voice Over Recording",
+        "title": "Voice Over",
         "category": "voiceover",
-        "alt": "Professional voice over recording session"
+        "alt": "Professional voice over recording session",
+        "description": [
+            "Providing clear and professional voice-over for videos and commercials.",
+            "Recording in a high-quality studio environment.",
+            "Delivering broadcast-ready audio files tailored to your project's tone."
+        ]
     }
 ]
