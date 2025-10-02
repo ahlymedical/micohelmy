@@ -1,18 +1,18 @@
 [
     {
-        "url": "assets/portfolio_images/Graphic Design 1.png",
+        "url": "assets/portfolio_images/Graphic Design 1.jpg",
         "title": "Creative Design",
         "category": "graphic",
         "alt": "Creative Design Project"
     },
     {
-        "url": "assets/portfolio_images/Graphic Design 2.png",
+        "url": "assets/portfolio_images/Graphic Design 2.jpg",
         "title": "Creative Resources Infographic",
         "category": "graphic",
         "alt": "Infographic for creative resources"
     },
     {
-        "url": "assets/portfolio_images/Graphic Design 3.png",
+        "url": "assets/portfolio_images/Graphic Design 3.jpg",
         "title": "Business Corporate Identity",
         "category": "branding",
         "alt": "Corporate identity for a business"
@@ -60,13 +60,13 @@
         "alt": "Google Ads campaign management"
     },
     {
-        "url": "assets/portfolio_images/Photography 1.png",
+        "url": "assets/portfolio_images/Photography 1.jpg",
         "title": "Professional Photography",
         "category": "photo",
         "alt": "Professional photography session"
     },
     {
-        "url": "assets/portfolio_images/Videography 1.png",
+        "url": "assets/portfolio_images/Videography 1.jpg",
         "title": "Event Videography",
         "category": "videography",
         "alt": "Professional videography for an event"
