@@ -1,6 +1,6 @@
 [
     {
-        "url": "assets/portfolio_images/Graphic Design 1.png",
+        "url": "assets/portfolio_images/graphic-design-1.png",
         "title": "Creative Design",
         "category": "graphic",
         "alt": "Creative Design Project",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Graphic Design 2.png",
+        "url": "assets/portfolio_images/graphic-design-2.png",
         "title": "Creative Website Designs",
         "category": "graphic",
         "alt": "Creative website design mockups",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Graphic Design 3.png",
+        "url": "assets/portfolio_images/graphic-design-3.png",
         "title": "Business Corporate Identity",
         "category": "branding",
         "alt": "Corporate identity for a business",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Graphic Design 4.png",
+        "url": "assets/portfolio_images/graphic-design-4.png",
         "title": "Creative LOGO",
         "category": "graphic",
         "alt": "Creative logo design",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 1.png",
+        "url": "assets/portfolio_images/marketing-1.png",
         "title": "Digital Marketing",
         "category": "marketing",
         "alt": "Digital marketing campaign",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 2.png",
+        "url": "assets/portfolio_images/marketing-2.png",
         "title": "Medical Marketing",
         "category": "marketing",
         "alt": "Marketing for the medical sector",
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 3.png",
+        "url": "assets/portfolio_images/marketing-3.png",
         "title": "Best Results",
         "category": "marketing",
         "alt": "Marketing campaign for achieving best results",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 4.png",
+        "url": "assets/portfolio_images/marketing-4.png",
         "title": "Social Media",
         "category": "marketing",
         "alt": "Social media marketing project",
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 5.png",
+        "url": "assets/portfolio_images/marketing-5.png",
         "title": "Search Engine Optimization",
         "category": "marketing",
         "alt": "SEO project overview",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Marketing 6.png",
+        "url": "assets/portfolio_images/marketing-6.png",
         "title": "Google Ads",
         "category": "marketing",
         "alt": "Google Ads campaign management",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Photography 1.png",
+        "url": "assets/portfolio_images/photography-1.png",
         "title": "Photography",
         "category": "photo",
         "alt": "Professional photography session",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Videography 1.png",
+        "url": "assets/portfolio_images/videography-1.png",
         "title": "Videography",
         "category": "videography",
         "alt": "Professional videography for an event",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "url": "assets/portfolio_images/Voice Over 1.png",
+        "url": "assets/portfolio_images/voice-over-1.png",
         "title": "Voice Over",
         "category": "voiceover",
         "alt": "Professional voice over recording session",
