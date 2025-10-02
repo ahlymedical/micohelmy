@@ -213,10 +213,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="contact-info">
                     <p>Contact Michael directly:</p>
                     <div>
-                        <a href="tel:+201025946594" title="Call 01025946594"><i class="fas fa-phone"></i></a>
-                        <a href="https://wa.me/201025946594" target="_blank" title="WhatsApp 01025946594"><i class="fab fa-whatsapp"></i></a>
-                        <a href="tel:+201281912441" title="Call 01281912441"><i class="fas fa-phone"></i></a>
-                        <a href="https://wa.me/201281912441" target="_blank" title="WhatsApp 01281912441"><i class="fab fa-whatsapp"></i></a>
+                        <a href="tel:+201025946594" title="Call"><i class="fas fa-phone"></i></a>
+                        <a href="https://wa.me/201025946594" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
                         <a href="#" id="email-btn" title="Email Transcript"><i class="fas fa-envelope"></i></a>
                     </div>
                 </div>
